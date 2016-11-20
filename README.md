@@ -42,6 +42,8 @@ Please read [License.md](License.md)
 
 # NOTES
 
+http://thenextweb.com/facebook/2016/11/18/four-students-fixed-facebooks-fake-news-problem-in-36-hours/
+
 chrome extension: https://chrome.google.com/webstore/detail/fib/ofpheinlpjdffpdakjegbcphdfeekpnn
 
 This extension analyzes your Facebook feed for a url, picture, and text's validitiy.
